@@ -1,5 +1,5 @@
 # KindleHelper
-## 全网小说搜索&下载.支持Mobi/txt格式.
+## 全网小说搜索&下载.支持Mobi/txt格式
 ### 下载
 * github: https://github.com/qq573011406/KindleHelper/releases
 * 百度网盘: https://pan.baidu.com/s/1dEWLErZ 密码: 2wm8
